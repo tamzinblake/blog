@@ -1,0 +1,29 @@
+$(IMPORT (header))
+$(IMPORT (footer))
+$(WRAP header()
+$)
+<div id="wrapper">
+  <div id="header">
+    <div id="pre_logo">
+    </div>
+    <div id="logo">
+      <h1>Thom Blake - Computer Ethics</h1>
+    </div>
+    <div id="post_logo">
+      Top Navigation
+    </div>
+  </div>
+  <div id="body">
+    <div id="content">
+      Here is some content!  It lives happily in "blog post land".
+    </div>
+    <div id="right">
+      Here are some nice links for you.
+    </div>
+  </div>
+  <div id="footer">
+    I can't feel my feet.  I can't feel my helmet.
+  </div>
+  <div class="clearing">&nbsp;</div>
+</div>
+${ footer() }
