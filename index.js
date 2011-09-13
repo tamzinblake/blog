@@ -1,6 +1,7 @@
 var routes = { index       : require('./lib/index')
              , error       : require('./lib/error')
              , js          : require('./lib/sendfile')
+             , css         : require('./lib/sendfile')
              }
 
 function reroute (req, res) {
