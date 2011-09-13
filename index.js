@@ -16,7 +16,7 @@ function reroute (req, res) {
 }
 
 function split_params (params) {
-  if (params == undefined) {
+  if (params == undefined || params == '/') {
     return ['','index']
   }
   else {
