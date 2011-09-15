@@ -9,7 +9,8 @@ function reroute (req, res) {
     , route = routes[path[1]]
 
   if (route == undefined) {
-    route = routes['error']
+    route = routes['index']
+    path[2] = path[1]
   }
 
   route(req,res,path)
