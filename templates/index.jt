@@ -15,10 +15,7 @@ $)
   </div>
   <div id="body">
     <div id="content">
-      Here is some content!  It lives happily in "blog post land".
-    </div>
-    <div id="right">
-      Here are some nice links for you.
+        $content
     </div>
   </div>
   <div id="footer">

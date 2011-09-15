@@ -5,12 +5,12 @@
 body {
   background-color: #999999;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   color: #000000;
 }
 div#wrapper {
   margin: 0 auto;
-  width: 750px;
+  width: 100%;
   background-color: #ff0000;
 }
 div#header {
@@ -30,18 +30,8 @@ div#body {
   overflow: hidden;
 }
 div#content {
-  width: 600px;
   background-color: #ffffff;
   float: left;
-  padding-bottom: 20000px;
-  margin-bottom: -20000px;
-}
-div#right {
-  width: 150px;
-  background-color: #ccccff;
-  float: right;
-  padding-bottom: 20000px;
-  margin-bottom: -20000px;
 }
 div#footer {
   clear: both;
