@@ -31,7 +31,7 @@ div#body {
 }
 div#content {
   background-color: #ffffff;
-  float: left;
+  width: 100%;
 }
 div#footer {
   clear: both;
