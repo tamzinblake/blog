@@ -15,7 +15,7 @@ $)
   </div>
   <div id="body">
     <div id="content">
-        $content
+        $this.content
     </div>
   </div>
   <div id="footer">
