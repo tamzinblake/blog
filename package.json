@@ -2,7 +2,7 @@
 , "author" : "Thom Blake <thethomblake@gmail.com> (http://thomblake.com)"
 , "description" : "My blog"
 , "keywords" : [ "nserver", "blog" ]
-, "version" : "0.0.3"
+, "version" : "0.0.3-1"
 , "repository" :
   { "type" : "git"
   , "url" : "https://github.com/thomblake/blog.git"
