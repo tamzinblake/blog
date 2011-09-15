@@ -16,6 +16,5 @@
 , "dependencies" :
   { "yajet" : "*"
   , "nserver-util" : "*"
-  , "github-flavored-markdown" : "*"
   }
 }

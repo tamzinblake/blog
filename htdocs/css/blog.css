@@ -11,23 +11,22 @@ body {
 div#wrapper {
   margin: 0 auto;
   width: 100%;
-  background-color: #ff0000;
+  background-color: #ffffff;
 }
 div#header {
-  background-color: #00ff00;
+  background-color: #ffffff;
 }
 div#pre_logo {
-  background-color: #006600;
+  background-color: #ffffff;
 }
 div#logo {
-  background-color: #009900;
+  background-color: #ffffff;
 }
 div#post_logo {
-  background-color: #006600;
+  background-color: #ffffff;
 }
 div#body {
-  background-color: #0000ff;
-  overflow: hidden;
+  background-color: #ffffff;
 }
 div#content {
   background-color: #ffffff;
@@ -35,7 +34,7 @@ div#content {
 }
 div#footer {
   clear: both;
-  background-color: #990000;
+  background-color: #ffffff;
 }
 div.clearing {
   height: 0;
