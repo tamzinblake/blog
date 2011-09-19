@@ -7,10 +7,10 @@ $)
     <div id="pre_logo">
     </div>
     <div id="logo">
-      <h1>Thom Blake - Computer Ethics</h1>
+      <a href="/blog"><h1>Thom Blake - Computer Ethics</h1></a>
     </div>
     <div id="post_logo">
-      Top Navigation
+      <a href="/">Home</a> | <a href="/blog">Blog</a> | <a href="/about">About</a> | <a href="/contact">Contact</a>
     </div>
   </div>
   <div id="body">
@@ -19,7 +19,7 @@ $)
     </div>
   </div>
   <div id="footer">
-    I can't feel my feet.  I can't feel my helmet.
+    &copy; 2007-${ (new Date()).getFullYear() } Thom Blake
   </div>
   <div class="clearing">&nbsp;</div>
 </div>

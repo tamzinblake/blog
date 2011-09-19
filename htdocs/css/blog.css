@@ -39,6 +39,7 @@ div#logo {
 }
 div#post_logo {
   background-color: #ffffff;
+  text-align: right;
 }
 div#body {
   background-color: #ffffff;
@@ -54,4 +55,14 @@ div#footer {
 div.clearing {
   height: 0;
   clear: both;
+}
+a {
+  text-decoration: none;
+}
+a:hover, a:active {
+  text-decoration: underline;
+}
+#logo a {
+  text-decoration: none;
+  color: #000000;
 }
