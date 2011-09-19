@@ -16,5 +16,6 @@
 , "dependencies" :
   { "yajet" : "*"
   , "nserver-util" : "*"
+  , "ghm" : "*"
   }
 }
