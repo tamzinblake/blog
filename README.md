@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/thomblake/blog.png)](http://travis-ci.org/thomblake/blog)
 ## thomblake/blog ##
 
 Simultaneously containing the engine for my blog and the actual blog content.
